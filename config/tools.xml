@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<chapter title="GoLang" id="golang">
+    <table>
+        <tr>
+            <td>Project</td>
+            <td>Version</td>
+            <td>License</td>
+        </tr>
+        <tr>
+            <td><a href="github.com/sirupsen/logrus">github.com/sirupsen/logrus</a>
+            </td>
+            <td>1.8.1</td>
+            <td>
+                <a href="https://opensource.org/licenses/MIT">MIT License</a>
+            </td>
+        </tr>
+    </table>
+</chapter>
