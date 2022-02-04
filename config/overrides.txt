@@ -1,2 +1,3 @@
 com.datastax.dse:dse-java-driver-core:2.4.0|https://github.com/datastax/java-driver|Apache License, Version 2.0|http://www.apache.org/licenses/LICENSE-2.0.txt
 org.apache.geronimo:geronimo:3.0.0|http://svn.apache.org/viewvc/geronimo/server/tags/geronimo-3.0.0|Apache License, Version 2.0|http://www.apache.org/licenses/LICENSE-2.0.txt
+node-esapi v0.0.1|https://www.npmjs.com/package/node-esapi|MIT License|https://opensource.org/licenses/MIT

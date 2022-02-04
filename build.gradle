@@ -177,7 +177,8 @@ dependencies {
 
 licenseReport {
     importers = [ 
-      new XmlReportImporter("Go Lang", new File("$projectDir/config/tools.xml") ) 
+      new XmlReportImporter("Go Lang", new File("$projectDir/config/tools.xml") ) ,
+      new XmlReportImporter("Frontend", new File("$projectDir/config/ui.xml") ) 
      ]
 
     filters = [new ExcludeTransitiveDependenciesFilter(), 

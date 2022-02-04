@@ -1,0 +1,374 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<chapter title="Frontend" id="node">
+    <table>
+        <tr>
+            <td>Project</td>
+            <td>Version</td>
+            <td>License</td>
+        </tr>
+
+ 
+          <tr>
+            <td><a href="https://github.com/dmtrKovalenko/date-io">@date-io/moment</a>
+            </td>
+            <td>2.13.1</td>
+            <td>
+                <a href="https://opensource.org/licenses/MIT">MIT</a>
+            </td>
+        </tr>
+    
+ 
+          <tr>
+            <td><a href="https://github.com/mui-org/material-ui.git">@material-ui/core</a>
+            </td>
+            <td>4.12.3</td>
+            <td>
+                <a href="https://opensource.org/licenses/MIT">MIT</a>
+            </td>
+        </tr>
+    
+ 
+          <tr>
+            <td><a href="https://github.com/mui-org/material-ui.git">@material-ui/icons</a>
+            </td>
+            <td>4.11.2</td>
+            <td>
+                <a href="https://opensource.org/licenses/MIT">MIT</a>
+            </td>
+        </tr>
+    
+ 
+          <tr>
+            <td><a href="https://github.com/mui-org/material-ui.git">@material-ui/lab</a>
+            </td>
+            <td>4.0.0-alpha.60</td>
+            <td>
+                <a href="https://opensource.org/licenses/MIT">MIT</a>
+            </td>
+        </tr>
+    
+ 
+          <tr>
+            <td><a href="https://github.com/mui-org/material-ui-pickers">@material-ui/pickers</a>
+            </td>
+            <td>3.3.10</td>
+            <td>
+                <a href="https://opensource.org/licenses/MIT">MIT</a>
+            </td>
+        </tr>
+    
+ 
+          <tr>
+            <td><a href="https://github.com/reduxjs/redux-toolkit.git">@reduxjs/toolkit</a>
+            </td>
+            <td>1.7.2</td>
+            <td>
+                <a href="https://opensource.org/licenses/MIT">MIT</a>
+            </td>
+        </tr>
+    
+ 
+          <tr>
+            <td><a href="https://github.com/testing-library/jest-dom.git">@testing-library/jest-dom</a>
+            </td>
+            <td>5.16.2</td>
+            <td>
+                <a href="https://opensource.org/licenses/MIT">MIT</a>
+            </td>
+        </tr>
+    
+ 
+          <tr>
+            <td><a href="https://github.com/testing-library/react-testing-library.git">@testing-library/react</a>
+            </td>
+            <td>12.1.2</td>
+            <td>
+                <a href="https://opensource.org/licenses/MIT">MIT</a>
+            </td>
+        </tr>
+    
+ 
+          <tr>
+            <td><a href="https://github.com/testing-library/user-event.git">@testing-library/user-event</a>
+            </td>
+            <td>13.5.0</td>
+            <td>
+                <a href="https://opensource.org/licenses/MIT">MIT</a>
+            </td>
+        </tr>
+    
+ 
+          <tr>
+            <td><a href="https://github.com/axios/axios.git">axios</a>
+            </td>
+            <td>0.25.0</td>
+            <td>
+                <a href="https://opensource.org/licenses/MIT">MIT</a>
+            </td>
+        </tr>
+    
+ 
+          <tr>
+            <td><a href="https://github.com/lukeed/clsx.git">clsx</a>
+            </td>
+            <td>1.1.1</td>
+            <td>
+                <a href="https://opensource.org/licenses/MIT">MIT</a>
+            </td>
+        </tr>
+    
+ 
+          <tr>
+            <td><a href="https://github.com/zloirock/core-js.git">core-js</a>
+            </td>
+            <td>3.21.0</td>
+            <td>
+                <a href="https://opensource.org/licenses/MIT">MIT</a>
+            </td>
+        </tr>
+    
+ 
+          <tr>
+            <td><a href="ssh://git@github.com/brix/crypto-js.git">crypto-js</a>
+            </td>
+            <td>4.1.1</td>
+            <td>
+                <a href="https://opensource.org/licenses/MIT">MIT</a>
+            </td>
+        </tr>
+    
+ 
+          <tr>
+            <td><a href="https://github.com/jonbern/fetch-retry.git">fetch-retry</a>
+            </td>
+            <td>5.0.1</td>
+            <td>
+                <a href="https://opensource.org/licenses/MIT">MIT</a>
+            </td>
+        </tr>
+    
+ 
+          <tr>
+            <td><a href="https://github.com/formium/formik.git">formik</a>
+            </td>
+            <td>2.2.9</td>
+            <td>
+                <a href="https://opensource.org/licenses/Apache-2.0">Apache-2.0</a>
+            </td>
+        </tr>
+    
+ 
+          <tr>
+            <td><a href="https://github.com/remix-run/history.git">history</a>
+            </td>
+            <td>5.2.0</td>
+            <td>
+                <a href="https://opensource.org/licenses/MIT">MIT</a>
+            </td>
+        </tr>
+    
+ 
+          <tr>
+            <td><a href="https://gitlab.com/catamphetamine/libphonenumber-js.git">libphonenumber-js</a>
+            </td>
+            <td>1.9.47</td>
+            <td>
+                <a href="https://opensource.org/licenses/MIT">MIT</a>
+            </td>
+        </tr>
+    
+ 
+          <tr>
+            <td><a href="https://github.com/moment/moment.git">moment</a>
+            </td>
+            <td>2.29.1</td>
+            <td>
+                <a href="https://opensource.org/licenses/MIT">MIT</a>
+            </td>
+        </tr>
+    
+ 
+          <tr>
+            <td><a href="https://github.com/moment/moment-timezone.git">moment-timezone</a>
+            </td>
+            <td>0.5.34</td>
+            <td>
+                <a href="https://opensource.org/licenses/MIT">MIT</a>
+            </td>
+        </tr>
+    
+ 
+          <tr>
+            <td><a href="git@github.com:DeadAlready/node-esapi">node-esapi</a>
+            </td>
+            <td>0.0.1</td>
+            <td>
+                <a href="https://opensource.org/licenses/MIT">MIT</a>
+            </td>
+        </tr>
+    
+ 
+          <tr>
+            <td><a href="https://github.com/facebook/prop-types.git">prop-types</a>
+            </td>
+            <td>15.8.1</td>
+            <td>
+                <a href="https://opensource.org/licenses/MIT">MIT</a>
+            </td>
+        </tr>
+    
+ 
+          <tr>
+            <td><a href="https://github.com/facebook/react.git">react</a>
+            </td>
+            <td>17.0.2</td>
+            <td>
+                <a href="https://opensource.org/licenses/MIT">MIT</a>
+            </td>
+        </tr>
+    
+ 
+          <tr>
+            <td><a href="https://github.com/facebook/react.git">react-dom</a>
+            </td>
+            <td>17.0.2</td>
+            <td>
+                <a href="https://opensource.org/licenses/MIT">MIT</a>
+            </td>
+        </tr>
+    
+ 
+          <tr>
+            <td><a href="https://github.com/react-dropzone/react-dropzone.git">react-dropzone</a>
+            </td>
+            <td>11.5.3</td>
+            <td>
+                <a href="https://opensource.org/licenses/MIT">MIT</a>
+            </td>
+        </tr>
+    
+ 
+          <tr>
+            <td><a href="https://github.com/nfl/react-helmet.git">react-helmet</a>
+            </td>
+            <td>6.1.0</td>
+            <td>
+                <a href="https://opensource.org/licenses/MIT">MIT</a>
+            </td>
+        </tr>
+    
+ 
+          <tr>
+            <td><a href="https://github.com/supremetechnopriest/react-idle-timer.git">react-idle-timer</a>
+            </td>
+            <td>4.6.4</td>
+            <td>
+                <a href="https://opensource.org/licenses/MIT">MIT</a>
+            </td>
+        </tr>
+    
+ 
+          <tr>
+            <td><a href="https://github.com/reduxjs/react-redux.git">react-redux</a>
+            </td>
+            <td>7.2.6</td>
+            <td>
+                <a href="https://opensource.org/licenses/MIT">MIT</a>
+            </td>
+        </tr>
+    
+ 
+          <tr>
+            <td><a href="https://github.com/remix-run/react-router.git">react-router</a>
+            </td>
+            <td>6.2.1</td>
+            <td>
+                <a href="https://opensource.org/licenses/MIT">MIT</a>
+            </td>
+        </tr>
+    
+ 
+          <tr>
+            <td><a href="https://github.com/remix-run/react-router.git">react-router-dom</a>
+            </td>
+            <td>6.2.1</td>
+            <td>
+                <a href="https://opensource.org/licenses/MIT">MIT</a>
+            </td>
+        </tr>
+    
+ 
+          <tr>
+            <td><a href="https://github.com/facebook/create-react-app.git">react-scripts</a>
+            </td>
+            <td>5.0.0</td>
+            <td>
+                <a href="https://opensource.org/licenses/MIT">MIT</a>
+            </td>
+        </tr>
+    
+ 
+          <tr>
+            <td><a href="https://github.com/tomkp/react-split-pane.git">react-split-pane</a>
+            </td>
+            <td>0.1.92</td>
+            <td>
+                <a href="https://opensource.org/licenses/MIT">MIT</a>
+            </td>
+        </tr>
+    
+ 
+          <tr>
+            <td><a href="https://github.com/reduxjs/redux.git">redux</a>
+            </td>
+            <td>4.1.2</td>
+            <td>
+                <a href="https://opensource.org/licenses/MIT">MIT</a>
+            </td>
+        </tr>
+    
+ 
+          <tr>
+            <td><a href="https://github.com/theaqua/redux-logger.git">redux-logger</a>
+            </td>
+            <td>3.0.6</td>
+            <td>
+                <a href="https://opensource.org/licenses/MIT">MIT</a>
+            </td>
+        </tr>
+    
+ 
+          <tr>
+            <td><a href="https://github.com/arnaudbenard/redux-mock-store.git">redux-mock-store</a>
+            </td>
+            <td>1.5.4</td>
+            <td>
+                <a href="https://opensource.org/licenses/MIT">MIT</a>
+            </td>
+        </tr>
+    
+ 
+          <tr>
+            <td><a href="https://github.com/arthurtyukayev/use-keyboard-shortcut.git">use-keyboard-shortcut</a>
+            </td>
+            <td>1.1.2</td>
+            <td>
+                <a href="https://opensource.org/licenses/MIT">MIT</a>
+            </td>
+        </tr>
+    
+ 
+          <tr>
+            <td><a href="https://github.com/jquense/yup.git">yup</a>
+            </td>
+            <td>0.32.11</td>
+            <td>
+                <a href="https://opensource.org/licenses/MIT">MIT</a>
+            </td>
+        </tr>
+    
+
+    </table>
+</chapter>
+

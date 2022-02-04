@@ -8,11 +8,93 @@
             <td>License</td>
         </tr>
         <tr>
-            <td><a href="github.com/sirupsen/logrus">github.com/sirupsen/logrus</a>
+            <td><a href="http://github.com/andygrunwald/go-jira">go-jira</a>
+            </td>
+            <td>v1.13.0</td>
+            <td>
+                <a href="https://opensource.org/licenses/MIT">MIT License</a>
+            </td>
+        </tr>
+        <tr>
+            <td><a href="http://github.com/dgrijalva/jwt-go">jwt-go</a>
+            </td>
+            <td>v3.2.0+incompatible</td>
+            <td>
+                <a href="https://opensource.org/licenses/MIT">MIT License</a>
+            </td>
+        </tr>
+        <tr>
+            <td><a href="http://github.com/robfig/cron">cron</a>
+            </td>
+            <td>v3.0.1</td>
+            <td>
+                <a href="https://opensource.org/licenses/MIT">MIT License</a>
+            </td>
+        </tr>        
+        <tr>
+            <td><a href="http://github.com/elastic/go-elasticsearch">github.com/elastic/go-elasticsearch</a>
+            </td>
+            <td>v7.9.0</td>
+            <td>
+                <a href="https://www.apache.org/licenses/LICENSE-2.0">Apache License, Version 2.0</a>
+            </td>
+        </tr>
+        
+        <tr>
+            <td><a href="http://github.com/go-git/go-git">go-git</a>
+            </td>
+            <td>v5.3.0</td>
+            <td>
+                <a href="https://www.apache.org/licenses/LICENSE-2.0">Apache License, Version 2.0</a>
+            </td>
+        </tr>
+        <tr>
+            <td><a href="http://github.com/google/go-querystring">go-querystring</a>
+            </td>
+            <td>v1.1.0</td>
+            <td>
+                <a href="https://opensource.org/licenses/BSD-3-Clause">BSD-3-Clause License</a>
+            </td>
+        </tr>
+        <tr>
+            <td><a href="http://github.com/open-policy-agent/opa">opa</a>
+            </td>
+            <td>v0.29.4</td>
+            <td>
+                <a href="https://www.apache.org/licenses/LICENSE-2.0">Apache License, Version 2.0</a>
+            </td>
+        </tr>
+        
+        <tr>
+            <td><a href="http://github.com/santhosh-tekuri/jsonschema">jsonschema</a>
+            </td>
+            <td>v5.0.0</td>
+            <td>
+                <a href="https://www.apache.org/licenses/LICENSE-2.0">Apache License, Version 2.0</a>
+            </td>
+        </tr>
+        <tr>
+            <td><a href="http://github.com/sirupsen/logrus">github.com/sirupsen/logrus</a>
             </td>
             <td>1.8.1</td>
             <td>
                 <a href="https://opensource.org/licenses/MIT">MIT License</a>
+            </td>
+        </tr>
+        <tr>
+            <td><a href="http://github.com/skhatri/api-router-go">api-router-go</a>
+            </td>
+            <td>0.9.2</td>
+            <td>
+                <a href="https://www.apache.org/licenses/LICENSE-2.0">Apache License, Version 2.0</a>
+            </td>
+        </tr>
+        <tr>
+            <td><a href="http://google.golang.org/grpc">grpc</a>
+            </td>
+            <td>v1.32.0</td>
+            <td>
+                <a href="https://www.apache.org/licenses/LICENSE-2.0">Apache License, Version 2.0</a>
             </td>
         </tr>
     </table>
